@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ IT Student @Uppsala University
+
 <!--
 **gabrielfrimodig/gabrielfrimodig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
