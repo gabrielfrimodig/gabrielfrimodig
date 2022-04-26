@@ -2,6 +2,8 @@
 
 Gabriel Frimodig
 
+ArcoLinux
+
 IT-Student @UppsalaUniversity
 
 📫 How to reach me: gabrielfrimodig@protonmail.com
