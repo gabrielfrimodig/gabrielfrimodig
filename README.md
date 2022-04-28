@@ -8,7 +8,7 @@ IT-Student @UppsalaUniversity
 
 ## Contact Me
 
-📫 How to reach me: gabrielfrimodig@protonmail.com
+📫 gabrielfrimodig@protonmail.com
 
 <!--
 **gabrielfrimodig/gabrielfrimodig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
