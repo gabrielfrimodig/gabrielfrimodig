@@ -8,6 +8,9 @@ IT-Student @UppsalaUniversity
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gabrielfrimodig&show_icons=true&theme=rose_pine&locale=en" alt="max-0406" /></p>
 
+## Chess challenge
+[Lichess](https://lichess.org/@/gwbe)
+
 ## Contact Me
 
 📫 gabrielfrimodig@protonmail.com
