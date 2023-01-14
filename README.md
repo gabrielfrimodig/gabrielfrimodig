@@ -8,7 +8,7 @@ IT-Student @UppsalaUniversity
 
 
 ## Chess challenge
-[Lichess](https://lichess.org/@/gwbe)
+[Lichess](https://lichess.org/@/gabrielfrimodig)
 
 ## Contact Me
 
