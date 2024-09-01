@@ -1,11 +1,10 @@
 ## About
 
-Gabriel Frimodig
+Hello! 👋
 
-ArcoLinux
+I'm a Linux enthusiast, currently rocking Red-Hat Enterprise. Passionate about all things Open Source.
 
-IT-Student @UppsalaUniversity
-
+🎓 M.​Sc. in Computer and Information Engineering
 
 ## Chess challenge
 [Lichess](https://lichess.org/@/gabrielfrimodig)
