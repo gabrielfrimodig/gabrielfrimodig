@@ -7,7 +7,7 @@ I'm a Linux enthusiast, currently rocking Red-Hat Enterprise. Passionate about a
 🎓 M.​Sc. in Computer and Information Engineering
 
 ## Chess challenge
-[Lichess](https://lichess.org/@/gabrielfrimodig)
+[Chess](https://www.chess.com/member/gwbe43) | [Lichess](https://lichess.org/@/gabrielfrimodig)
 
 ## Contact Me
 
